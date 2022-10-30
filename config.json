@@ -1,0 +1,17 @@
+{
+    "port":3000,
+    "eth":{
+        "provider":"https://mainnet.infura.io/v3/b3cfe57c0e344fc28198574e8851fb3f",
+        "uniswapv3quoter":"0xb27308f9f90d607463bb33ea1bebb41c27ce5ab6",
+        "uniswapv2router":"0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+        "usdc":"0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+        "usdcDecimals":6,
+        "usdt":"0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "usdtDecimals":6,
+        "dai":"0x6b175474e89094c44da98b954eedeac495271d0f",
+        "daiDecimals":18,
+        "weth":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "wethDecimals":18,
+        "ethusdcPool":"0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "price-api",
+  "version": "1.0.0",
+  "description": "API endpoint which provides prices of erc20 tokens from DEXs like uniswap v3, uniswap v2, sushiswap etc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@indexed-finance/multicall": "^2.0.0",
+    "web3": "^1.8.0"
+  }
+}
