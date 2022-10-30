@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@indexed-finance/multicall": "^2.0.0",
+    "axios": "^1.1.3",
     "web3": "^1.8.0"
   }
 }

@@ -13,5 +13,8 @@
         "weth":"0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
         "wethDecimals":18,
         "ethusdcPool":"0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8"
-    }
+    },
+    "telegramBotToken":"5619561550:AAEGxZM3L16ZZUIiI7fQkmXSREaX53dwZ4I",
+    "telegramChatId":"-826789292",
+    "alertInterval":3600000
 }
